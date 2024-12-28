@@ -1,6 +1,8 @@
 name: deployPosts
 on:
   push:
+    paths-ignore:
+      - 'posts/**'
     branches:
       - main
 
