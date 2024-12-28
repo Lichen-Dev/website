@@ -16,6 +16,6 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           script: |
             cd website
-            pkill python3
+            pkill python3 || true
             git pull
-            nohup python3 app.py > output.log 2>&1 &
+            nohup python3 app.py > output.log 2>&1 & sleep 1
