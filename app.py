@@ -12,21 +12,26 @@ app = Flask(__name__)
 def index():
     posts = []
     postsDir = Path('posts')
-    for file in sorted(postsDir.glob('*.md'), reverse=True):
+    for file in postsDir.glob('*.md'):
         title = file.stem
         creationTime = os.path.getctime(file)
         creationDate = datetime.fromtimestamp(creationTime).strftime('%Y-%m-%d')
         posts.append({
             'id': title,
             'title': title,
-            'date': creationDate
+            'date': creationDate,
+            'timestamp': creationTime  # Add timestamp for sorting
         })
-        blurb = ''
-        try:
-            with open('posts/blurb.txt', 'r') as f:
-                blurb = f.read().strip()
-        except FileNotFoundError:
-            blurb = "Welcome to my blog!"
+    for post in posts:
+        del post['timestamp']
+    
+    posts.sort(key=lambda x: x['timestamp'], reverse=True)
+    blurb = ''
+    try:
+        with open('posts/blurb.txt', 'r') as f:
+            blurb = f.read().strip()
+    except FileNotFoundError:
+        blurb = "Welcome to my blog!"
 
     
     return render_template('index.html', posts=posts, blurb=blurb)
