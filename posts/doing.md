@@ -1,7 +1,3 @@
-
-UPDATING POSTOIADFNOEQINFOQEINFOIEQNFOQEIN
-
-
 # Why Is It So Difficult To Do Things?
 
 I've always struggled with doing things. I still do! I'm going to talk about a few of the things that have worked for me.
