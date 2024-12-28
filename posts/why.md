@@ -8,6 +8,4 @@ I used to believe, you have to be interesting, and then you write. I now feel as
 
 In all seriousness though, the site is just hosted via python-flask, on a debian $5 VPS. It renders the html based on the markdown files I have in my posts folder, which get updated whenever I push to this site's git repo. 
 
-# Image test
 
-![Sand](/images/sand.jpg)
