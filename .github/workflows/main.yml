@@ -18,4 +18,5 @@ jobs:
             cd website
             pkill python3 || true
             git pull
-            nohup python3 app.py > output.log 2>&1 & sleep 1
+            source websiteEnv/bin/activate
+            nohup python3 app.py > output.log 2>&1 &
