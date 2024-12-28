@@ -1,7 +1,5 @@
-Investing
+# Why I Made This Website
 
-You shouldn’t need much more than one or two brokerage accounts (at least one of these being an IRA or Roth IRA). You should not need a wealth manager or financial advisor or private bank or anything fancy unless you are actively unwilling to learn basics (If you’re an exception to this you should know why).
+## Fun
 
-You should generally never be making frequent trades unless you have a very good reason to do so. If you are checking your stocks daily or frequently buying options, this is often a bad sign, especially if you’re a young male as you’re then at the highest risk of gambling yet thinking you are not gambling (the market will find a way to trick you. the annual take from this is measured in billions and the literal causalities from it non-negligible). Most assets you purchase you should want to hold for many months, better years.
-
-If you wish to make frequent trades regardless, at a minimum learn about your current tax brackets (long+short term; never over-optimize for time-of-sale to save mere pennies), wash sales (making a mistake here can be extremely costly), loss harvesting. pattern day trading requirements, hedging, and section 1256 contracts (which can be used to long/short the equivalent of e.g. QQQ/SPY but in a tax-efficient manner via futures like \NQ). If you want to become an expert in trading options I would strongly question whichever premise you used to decide this unless it is primarily for hedging.
+I made this website because I am bored.
