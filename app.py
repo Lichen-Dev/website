@@ -40,4 +40,4 @@ def showPost(postId):
     return render_template('post.html', post=post)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=2323)
+    app.run(host='0.0.0.0', port=80)
