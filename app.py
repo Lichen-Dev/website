@@ -22,8 +22,7 @@ def index():
             'date': creationDate,
             'timestamp': creationTime  # Add timestamp for sorting
         })
-    for post in posts:
-        del post['timestamp']
+    
     
     posts.sort(key=lambda x: x['timestamp'], reverse=True)
     blurb = ''
