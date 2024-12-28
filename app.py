@@ -1,4 +1,4 @@
-from flask import Flask, render_template, abort
+from flask import Flask, render_template, abort, send_from_directory
 import markdown
 from pathlib import Path
 import os
@@ -50,6 +50,10 @@ def showPost(postId):
         post = {'id': postId, 'content': content, 'title': postId, 'date': creationDate}
     
     return render_template('post.html', post=post)
+
+@app.route('/images/<path:filename>')
+def serveImages(filename):
+    return send_from_directory('static/images', filename)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)

@@ -10,4 +10,4 @@ In all seriousness though, the site is just hosted via python-flask, on a debian
 
 # Image test
 
-![Lichen Logo](https://nbn.org.uk/wp-content/uploads/2016/03/BLS-logo-with-name.jpg)
+![Sand](/images/sand.jpg)
