@@ -21,8 +21,15 @@ def index():
             'title': title,
             'date': creationDate
         })
+        blurb = ''
+        try:
+            with open('posts/blurb.txt', 'r') as f:
+                blurb = f.read().strip()
+        except FileNotFoundError:
+            blurb = "Welcome to my blog!"
+
     
-    return render_template('index.html', posts=posts)
+    return render_template('index.html', posts=posts, blurb=blurb)
 
 @app.route('/post/<postId>')
 def showPost(postId):
@@ -40,4 +47,4 @@ def showPost(postId):
     return render_template('post.html', post=post)
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=80)
+    app.run(host='0.0.0.0', port=5000)
