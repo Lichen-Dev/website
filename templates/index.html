@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinimalBlog</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <main class="container">
+        <h1>Lichen's Blog</h1>
+        <p class="blurb">
+            Exploring the fascinating world of lichens - nature's remarkable symbiotic organisms. 
+            Join me on a journey through forests, rocks, and urban landscapes to discover these 
+            incredible life forms.
+        </p>
+        <ul class="postList">
+            {% for post in posts %}
+            <li>
+                <a href="{{ url_for('showPost', postId=post.id) }}">
+                    {{ post.title }}
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </main>
+</body>
+</html>

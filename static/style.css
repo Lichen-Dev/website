@@ -1,0 +1,27 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: left;  
+}
+
+.blurb {
+    margin: 2rem 0;
+    color: #666;
+    line-height: 1.6;
+}
+
+.postList {
+    list-style: none;
+    padding: 0;
+}
+
+.postList li {
+    margin: 1rem 0;
+}
+.postDate {
+    color: #666;
+    font-size: 0.9rem;
+    display: block;
+    margin-bottom: 1rem;
+}
