@@ -7,3 +7,7 @@ I used to believe, you have to be interesting, and then you write. I now feel as
 [Claude](https://claude.ai). The End
 
 In all seriousness though, the site is just hosted via python-flask, on a debian $5 VPS. It renders the html based on the markdown files I have in my posts folder, which get updated whenever I push to this site's git repo. 
+
+# Image test
+
+![Lichen Logo](https://nbn.org.uk/wp-content/uploads/2016/03/BLS-logo-with-name.jpg)
