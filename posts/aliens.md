@@ -1,4 +1,9 @@
 
+# About
+
+This is a live page that will be updated as I find new information and arguments for and against recent UAPs being prosaic (mundane/easily expainable by existing science) in nature.
+
+I've seen increasingly credible information coming out about UAPs (F.K.A UFOs) popping up over the past few years. Namely testimonies from former US Government/Military officials as well as videos released by the US Military. This page aims to collate all of the most credible information, but also to show some 
 
 # Yudkowsky
 
