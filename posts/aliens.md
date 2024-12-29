@@ -1,4 +1,6 @@
-# Investigation/Secrecy Hearing
+# UAP Hearing 
+
+[Source](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)
 
 ## Luis Elizondo (Former DOD Official):
 
@@ -17,10 +19,6 @@ When asked about recovered bodies: "Yes." (Confirming that the US has possession
 ## Rear Admiral Tim Gallaudet (Retired):
 
 "The very next day, that email disappeared from my account and those of the other recipients without explanation... This lack of follow-up was very concerning to me. As the Navy's chief meteorologist at the time, I was responsible for reducing safety of flight risks. Yet it appeared to me that no one at the flag officer level was addressing the safety risk posed by UAPs."
-
-
-
-
 
 # Pilot Sightings
 
