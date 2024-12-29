@@ -1,3 +1,39 @@
+
+
+# Yudkowsky
+
+P/S/B:  UFOs are almost certainly not aliens, and this is knowable with study and thought.
+
+Perhaps you've heard that before.  But it's not just empty words, this time; I've bet $150,000 to $1,000 against past UFO sightings being revealed within 5 years to have a worldview-shattering origin.
+
+My model of the world confidently says no to alien UFOs:  Their technology would not be such that, having arrived here across interstellar distances and then remained hidden, they'd need to fly around in large visible vehicles.  It is definitely the case, given the physics we already know, that the aliens can do whatever surveillance they want using far tinier devices; eg, covalent-bond-strong, micron-sized robots, like bacteria but not with proteins held together by static cling.
+
+Superintelligence is possible - it is just flat wrong that a human is as smart as any physical system can get - and you'd expect something crossing interstellar distances to be long since superintelligent.  If they wanted to stay hidden, they'd stay hidden successfully.  If aliens wanted to help Earth and not hide, humans would not be dying of cancer.  If aliens didn't want to help, nor to hide, the aliens would have harvested the Solar System for matter and energy.
+
+Alien psychology would not be such as to (per Robin Hanson) stay mysterious and uncertain yet occasionally visible, in order to maximize their status.  If aliens wanted to shape our opinions and had no rules against causal impacts on us, they could literally just rewrite our brains.  If they wanted to leave us alone instead, we'd apparently be alone.  If aliens wanted to accomplish Hanson's exact hypothetical end of gaining status in our eyes, there'd be much better strategies than generating disreputable UFO stories.
+
+I have enormously wide uncertainty about the distribution of true alien psychologies, or the spacefaring agencies that grow out of them.  But it's uncertainty over a metric where--when we look back down at Earth and what those psychologies would mean to us--the supervast majority of probable alien intellects, would not come here across interstellar distances, quietly and hiding on arrival, and then occasionally fly around in giant visible vehicles.
+
+I have enormously wide uncertainty over the possible range of alien technologies.  But I can use current knowledge of physics and chemistry, and the advance analyses that others have done of what technological possibilities those imply, to put a lower bound under alien technology that's comfortably above "needs to use giant flying vehicles for travel or surveillance".
+
+I don't need to know exactly what aliens are trying to do, to know that only a few and unlikely goals would imply a best possible strategy of flying around in sightable UFOs while staying otherwise hidden.
+
+We live in a world where people saying "that can't happen" is cheap; where supposed "experts" hardly even stop to think before they flap their mouths, rejecting out of hand any possibility that feels a little weird to them.  An expert opinion like that often indicates little more intelligence than GPT-4 uses to respond; or less, if you count chain-of-thought prompting and tell GPT-4 to think out loud before it states or implies an answer.  Plenty of Experts and Authorities said in early 2020 that Covid wouldn't be a big deal, and those words were not mistaken so much as empty air.
+
+So I'm communicating 'yes I really actually believe that' in a properly credible way, the way experts and authorities would do it in a saner world, by betting $150,000 to $1,000.
+
+You can't easily do that for bets about the world ending, but you can do it for bets about UFOs - which draw on much of the same background knowledge, even.
+
+(If I was somehow told with certainty that I would lose my bet, but not told the details, I would cry.  With happiness and relief and hope.  My present worldview is a grim one; anything that shatters my worldview is good news in expectation if not in certainty.)
+
+UFOs aren't aliens.  You can approximately leave that possibility out of your thinking.  I've studied some of what one needs to study, to know that a bit more surely.  There's vast room above human intellect and human technology, and what that implies is this: if there are hidden aliens, they're successfully hiding.  Like, actually successfully, without the whole UFOs thing.
+
+I don't promise that absolutely, of course.  I'm no superintelligent alien myself, to know things like that.
+
+But I can still communicate what I believe, in a way that hopefully comes across.  Not through the speech of promising things; not by the social act of requesting you to believe, or ordering you to believe; but by the act of betting.  That's what an authoritative institution charged with evaluating the possibilities and telling people not to worry about (or hope for) would do in a sane world; on Earth, of course, it falls to me instead.
+
+...though symmetrically, /users/RatsWrongAboutUAP on the LessWrong forum sure has credibly communicated that they think UFOs are a big weird deal.  So it comes down to who you trust more, I guess?  And whether you believe my models about superintelligent psychology and superintelligent technology?  Because if you don't trust me about that model, which forms the basis of my own betting position--if you think I'm too sure about things like that--then /users/RatsWrongAboutUAP has sent a loud signal that they think they know something important that I don't.  They've made over $5,000 total in bets, not just with me.
+
 # UAP Hearing 
 
 [Source](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)
