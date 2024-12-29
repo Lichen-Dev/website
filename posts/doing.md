@@ -18,3 +18,5 @@ I used to think, you could make yourself happy in a purely subtractive manner. R
 
 Instead of focusing intensely on punishing yourself (installing app/site blockers, dopamine fasts..). Create a life you don't need to distract yourself from.
 
+
+
