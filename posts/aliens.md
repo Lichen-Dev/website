@@ -41,6 +41,12 @@ But I can still communicate what I believe, in a way that hopefully comes across
 
 ...though symmetrically, [/users/RatsWrongAboutUAP](https://www.lesswrong.com/posts/t5W87hQF5gKyTofQB/ufo-betting-put-up-or-shut-up) on the LessWrong forum sure has credibly communicated that they think UFOs are a big weird deal.  So it comes down to who you trust more, I guess?  And whether you believe my models about superintelligent psychology and superintelligent technology?  Because if you don't trust me about that model, which forms the basis of my own betting position--if you think I'm too sure about things like that--then /users/RatsWrongAboutUAP has sent a loud signal that they think they know something important that I don't.  They've made over $5,000 total in bets, not just with me.
 
+# Greg Fodor/Intraterrestrial Hypothesis
+
+[Full Post](https://gfodor.medium.com/the-intraterrestrial-hypothesis-e1fb9ab6b774)
+
+tl;dr: If special relativity holds, the world is vulnerable, and virtual reality can be made, humanity will not expand but will consolidate and virtualize their society using sensory stimulation hardware. The best non-prosaic explanation for the UFO phenomenon is that a pre-human species virtualized itself already, living in virtual reality, and lives underground.
+
 # UAP Hearing 
 
 [Source](https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/)
