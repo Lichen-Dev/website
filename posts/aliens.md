@@ -7,6 +7,8 @@ I've seen increasingly credible information coming out about UAPs (F.K.A UFOs) p
 
 # Yudkowsky
 
+[Tweet](https://x.com/ESYudkowsky/status/1682446903953457152)
+
 P/S/B:  UFOs are almost certainly not aliens, and this is knowable with study and thought.
 
 Perhaps you've heard that before.  But it's not just empty words, this time; I've bet $150,000 to $1,000 against past UFO sightings being revealed within 5 years to have a worldview-shattering origin.
