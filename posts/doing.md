@@ -14,4 +14,7 @@ I don't read, I hardly write, I live alone & I don't do a lot outside of my imme
 
 I recently moved to a new country where I don't really know anyone. When I came home and saw my family and old friends, I suddenly became interested again in the world around me. The happier you are, the easier it is to do things, make yourself happy.
 
-I used to think, you could make yourself happy in a purely subtractive manner. Remove instagram reels and alcohol/weed/porn, your dopamine will shoot up and suddenly it will become easy to do things. I've realized this isn't enough, those distractions are merely there as your life is lacking, and confronting that is far too painful, its much easier to look away. UNFINISHED BUT POSTING
+I used to think, you could make yourself happy in a purely subtractive manner. Remove instagram reels and alcohol/weed/porn, your dopamine will shoot up and suddenly it will become easy to do things. I've realized this isn't enough, those distractions are merely there as your life is lacking, and confronting that is far too painful, its much easier to look away. 
+
+Instead of focusing intensely on punishing yourself (installing app/site blockers, dopamine fasts..). Create a life that you don't need to distract yourself from.
+
