@@ -53,7 +53,7 @@ tl;dr: If special relativity holds, the world is vulnerable, and virtual reality
 
 ## Luis Elizondo:
 
-Former director of [AATIP](https://irp.fas.org/dia/aatip-list.pdf) an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP). 
+*Former director of [AATIP](https://irp.fas.org/dia/aatip-list.pdf) an unclassified but unpublicized investigatory effort funded by the United States Government to study unidentified flying objects (UFOs) or unexplained aerial phenomena (UAP).*
 
 "Advanced technologies not made by our government or any other government are monitoring sensitive military installations around the globe... Furthermore, the US is in possession of UAP technologies as are some of our adversaries."
 
@@ -69,7 +69,7 @@ When asked about recovered bodies: "Yes." (Confirming that the US has possession
 
 ## Tim Gallaudet:
 
-Retired U.S. Navy Rear Admiral and former Acting Administrator of NOAA. Served as the Navy's head oceanographer.
+*Retired U.S. Navy Rear Admiral and former Acting Administrator of NOAA. Served as the Navy's head oceanographer.*
 
 "The very next day, that email disappeared from my account and those of the other recipients without explanation... This lack of follow-up was very concerning to me. As the Navy's chief meteorologist at the time, I was responsible for reducing safety of flight risks. Yet it appeared to me that no one at the flag officer level was addressing the safety risk posed by UAPs."
 
@@ -79,7 +79,7 @@ Retired U.S. Navy Rear Admiral and former Acting Administrator of NOAA. Served a
 
 ## David Grusch:
 
-Former U.S. Air Force intelligence officer with extensive service in the National Geospatial-Intelligence Agency and National Reconnaissance Office. Decorated combat veteran.
+*Former U.S. Air Force intelligence officer with extensive service in the National Geospatial-Intelligence Agency and National Reconnaissance Office. Decorated combat veteran.*
 
 "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program"
 When asked if biologics were recovered: "As I have stated publicly already...biologics came with some of these recoveries."
@@ -90,7 +90,7 @@ On when the U.S. first became aware of evidence: "Certainly, like I have discuss
 
 ## Commander David Fravor:
 
-Distinguished Navy fighter pilot with 24 years of service. Former Commander of VFA-41 "Black Aces" squadron.
+*Distinguished Navy fighter pilot with 24 years of service. Former Commander of VFA-41 "Black Aces" squadron.*
 
 Regarding the Tic Tac object's capabilities: "I think it defies current material science...I think it is far beyond, actually, our material science that we currently possess"
 
@@ -98,7 +98,7 @@ Regarding the Tic Tac object's capabilities: "I think it defies current material
 
 ## Ryan Graves:
 
-Former Navy F/A-18F pilot with combat experience in Operation Enduring Freedom and Operation Inherent Resolve.
+*Former Navy F/A-18F pilot with combat experience in Operation Enduring Freedom and Operation Inherent Resolve.*
 
 Describing objects seen: "We were primarily seeing dark gray or black cubes inside of a clear sphere where the apex or tips of the cube were touching the inside of that sphere"
 
