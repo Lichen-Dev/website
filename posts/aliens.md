@@ -69,7 +69,7 @@ When asked about recovered bodies: "Yes." (Confirming that the US has possession
 
 ## Tim Gallaudet:
 
-American oceanographer and retired Rear Admiral in the United States Navy. Gallaudet worked for the U.S. Department of Commerce as the Acting Under Secretary of Commerce for Oceans and Atmosphere and Acting Administrator of the National Oceanic and Atmospheric Administration (NOAA).
+Retired U.S. Navy Rear Admiral and former Acting Administrator of NOAA. Served as the Navy's head oceanographer.
 
 "The very next day, that email disappeared from my account and those of the other recipients without explanation... This lack of follow-up was very concerning to me. As the Navy's chief meteorologist at the time, I was responsible for reducing safety of flight risks. Yet it appeared to me that no one at the flag officer level was addressing the safety risk posed by UAPs."
 
@@ -79,7 +79,7 @@ American oceanographer and retired Rear Admiral in the United States Navy. Galla
 
 ## David Grusch:
 
-Decorated Afghanistan combat veteran and a former USAF intelligence officer who worked in the National Geospatial-Intelligence Agency (NGA) and the National Reconnaissance Office (NRO).
+Former U.S. Air Force intelligence officer with extensive service in the National Geospatial-Intelligence Agency and National Reconnaissance Office. Decorated combat veteran.
 
 "I was informed in the course of my official duties of a multi-decade UAP crash retrieval and reverse engineering program"
 When asked if biologics were recovered: "As I have stated publicly already...biologics came with some of these recoveries."
@@ -90,7 +90,7 @@ On when the U.S. first became aware of evidence: "Certainly, like I have discuss
 
 ## Commander David Fravor:
 
-David Fravor is a retired naval pilot and Commander of VFA-41 also known as "The Black Aces". Fravor joined the military at the age of 17. He has a career spanning 24 years, 18 of which was as a Navy pilot. He had completed five tours to the Persian Gulf starting after Operation Desert Storm. He commanded a squadron of 12 airplanes consisting of 330 people. Fravor retired in 2006.
+Distinguished Navy fighter pilot with 24 years of service. Former Commander of VFA-41 "Black Aces" squadron.
 
 Regarding the Tic Tac object's capabilities: "I think it defies current material science...I think it is far beyond, actually, our material science that we currently possess"
 
@@ -98,7 +98,7 @@ Regarding the Tic Tac object's capabilities: "I think it defies current material
 
 ## Ryan Graves:
 
-Ryan Graves is a former Lt. U.S. Navy and F/A-18F pilot who served for a decade, including two deployments in Operation Enduring Freedom and Operation Inherent Resolve.
+Former Navy F/A-18F pilot with combat experience in Operation Enduring Freedom and Operation Inherent Resolve.
 
 Describing objects seen: "We were primarily seeing dark gray or black cubes inside of a clear sphere where the apex or tips of the cube were touching the inside of that sphere"
 
