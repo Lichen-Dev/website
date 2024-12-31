@@ -8,6 +8,7 @@ I've seen increasingly credible information coming out about UAPs (F.K.A UFOs) p
 # Yudkowsky
 
 [Tweet](https://x.com/ESYudkowsky/status/1682446903953457152)
+[Market](https://manifold.markets/Joshua/will-eliezer-yudkowsky-win-his-1500)
 
 P/S/B:  UFOs are almost certainly not aliens, and this is knowable with study and thought.
 

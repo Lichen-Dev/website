@@ -1,0 +1,13 @@
+the breakthrough in o1 is the application of RL to synthetic data generation for training, also having it self reflect and run longer
+
+The limitation of current models (gpt4, claude etc), is that they're purely trained on existing data on the web (human level) & then optimized to satisfy a reward model trained on human preference data, this current RL does result in greater performance than purely training on text, however its limited to the judgement of humans.
+
+---
+
+The intelligence of current LLMs is a product of the distillation of all human knowledge and reasoning on the internet. As well as optimization to satisfy human preferences via RLHF.
+
+This is limited. If you purely train on human generated data, you're going to get something that roughly approaches human level intelligence. 
+
+Take the theoretical scenario, where instead, you had the internet of a hyperintelligent alien species, and trained on that instead of human level data. Its likely training with the exact same architecture as current LLMs on that data would result in a vastly more intelligent model.
+
+The O-x series of models success can be partially attributed to this generation of superhuman training data. Through search in training, a model can take all possible chains of reasoning, and then, using an external verifier, learn to pick the best paths of reasoning, this results in training data that isn't human generated but instead 
